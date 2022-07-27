@@ -4,7 +4,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  type = string
+  type = LOGO
 }
 
 variable "num_of_instance" {
